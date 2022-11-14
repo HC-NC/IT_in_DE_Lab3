@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-eljghyiagfo
-hpwaghpag
-+ cfg
-=======
 Some text
 One
 Two
 *******
 /|\|/|\
 *******
->>>>>>> main
